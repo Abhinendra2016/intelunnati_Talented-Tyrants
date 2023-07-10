@@ -50,7 +50,9 @@ st.markdown(
     """
     "<p><span class='cost'> Low Cost (Under 10k)</span></p>"
     "<p><span class='cost'> Medium Cost (Between 10k-20k)</span></p>"
-    "<p><span class='cost'> Very High Cost (Above 50K)</span></p>",
+    "<p><span class='cost'> High Cost (Between 30K-50k)</span></p>"
+     "<p><span class='cost'> Very High Cost (Above 50K)</span></p>",
+
     unsafe_allow_html=True
 )
 
