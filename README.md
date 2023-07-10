@@ -37,3 +37,10 @@ The trained model was converted into a pickle file. Pickle allows us to serializ
 For deployment, the Streamlit framework was used to create a website where users can interact with the model and predict the price range of their mobile phones.
 
 You can access the deployed website [here](https://intelunnatitalented-tyrants-16sdw5yqmay.streamlit.app/).
+## Demo Vedio
+[![Video Title](http://img.youtube.com/vi/JfAcF1QUxX0/0.jpg)](https://www.youtube.com/watch?v=jvbkvwVc6Tw "Video Title")
+
+
+
+
+
